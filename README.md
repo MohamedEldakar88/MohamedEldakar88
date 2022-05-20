@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedEldakar88
-- 👀 I’m interested in Medical Informatics
+- 👀 I’m interested in Medical Software Engineering
 - 🌱 I’m currently learning Medical Informatics
 - 💞️ I’m looking to collaborate on BioMedical Engineering
 - 📫 How to reach me to this 
